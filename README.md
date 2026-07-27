@@ -1,0 +1,1 @@
+This is a beginner level project to understand the working of nodes, their traversal and basic recommendations based on nodal connections. This is a low level demo of the architecture of recommendation algorithm used extensively in all forms of social media. 
